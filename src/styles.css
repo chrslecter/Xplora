@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+agm-map {
+  height: 300px;
+}
+ .container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width:  20em;
+  height: 12em;
+  transform: translate(-50%, -50%);
+  
+}
+
+body {
+    background: #88A80D; /* For browsers that do not support gradients */    
+   /* background: -webkit-linear-gradient(right top, #FBAE17, #679E17 43%, #88A80D 78%, #ECAC17);
+    background: -o-linear-gradient(bottom left, #FBAE17, #679E17 43%, #88A80D 78%, #ECAC17);
+    background: -moz-linear-gradient(bottom left, #FBAE17, #679E17 43%, #88A80D 78%, #ECAC17); 
+    background: linear-gradient(to bottom left, #FBAE17, #679E17 43%, #88A80D 78%, #ECAC17); */
+}
+
